@@ -35,8 +35,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: Rizwan Ye
-      avatar: /assets/images/avatar1.jpg
+      author: Rizwan
+      avatar: /assets/images/avatar1.jpeg
       
   # all pages
   - scope:
