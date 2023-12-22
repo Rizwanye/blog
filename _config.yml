@@ -20,7 +20,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    Rizwan:
+    rizwan:
       name:           Rizwan Ye
       site:           https://rizzwan.com/
       avatar:         /assets/images/avatar1.jpeg
@@ -35,7 +35,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: Rizwan
+      author: rizwan
       avatar: /assets/images/avatar1.jpeg
       
   # all pages
