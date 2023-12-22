@@ -1,9 +1,13 @@
 ---
 layout: post
 title:  "Digital Twin and AI development"
-categories: [TECHNOLOGICAL REVOLUTION]
-image: assets/images/3.jpg
+categories: [AI]
+image: assets/images/ai/digital_twin.jpg
 ---
+
+<a href="https://www.freepik.com/free-photo/hands-digital-universe-background_13301552.htm#query=digital%20twin&position=14&from_view=keyword&track=ais&uuid=bd491de0-3e44-4234-94b4-79a0d0dee6c5">Image by rawpixel.com</a> on Freepik
+
+
 There are lots of powerful things you can do with the Markdown editor
 
 If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
