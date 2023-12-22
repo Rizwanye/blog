@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Could we reinvent the charm of old cities"
-author: jane
-categories: [ Jekyll, tutorial ]
-image: assets/images/home.jpg
+title:  "The New Future Montary System Will Tokenize Everything"
+categories: [ Technological Revolution, Tokenization ]
+image: assets/images/tokenization/token.jpg
 tags: [sticky]
 ---
 
