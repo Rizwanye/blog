@@ -37,7 +37,7 @@ Key characteristics of **Industry 4.0** include:
 
 5. **Smart Factories:** The use of cyber-physical systems in the manufacturing process, creating highly flexible and efficient production systems.
 
-The progression towards **Industry 4.0** has the potential to revolutionize industries, increase efficiency, reduce costs, and enable new business models.
-
+Given this information, the question remains. 
+Will you accept or oppose the new industry 4.0 and beyond?
 
 
