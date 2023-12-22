@@ -60,3 +60,5 @@ Furthermore the co-existence of tokenization and fiat currecny can be an issue a
 
 With many special interests looking into RWA and tokenization. One may ask what will they do next? Or how will they imeplement the new change?
 One may worry thinking about this. 
+
+Originally written in November - December 2023 By Rizwan Ye 
