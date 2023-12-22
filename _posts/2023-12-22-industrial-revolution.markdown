@@ -11,7 +11,6 @@ Previously, these types of terms were merely buzzwords thrown around to entice n
 However, the actual curation and real-world use cases of digital ID, language models, and crypto technology can now demonstrate their benefits to society and have a real world use case. 
 
 Previously people hyptohesised that there will be a new Industrial revolution called "Industry 4.0".
-I believe we are at that stage now, or at the beginning of it and I have a very strong conviction that the new industry 4.0 will happen in our lifetimes.
 
 What exactly is 4.0? 
 
@@ -37,7 +36,5 @@ Key characteristics of **Industry 4.0** include:
 
 5. **Smart Factories:** The use of cyber-physical systems in the manufacturing process, creating highly flexible and efficient production systems.
 
-Given this information, the question remains. 
-Will you accept or oppose the new industry 4.0 and beyond?
-
+I believe we are at that stage now, or at the beginning of it and I have a very strong conviction that the new industry 4.0 will happen in our lifetimes.
 
