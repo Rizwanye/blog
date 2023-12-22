@@ -7,7 +7,7 @@ tags: [sticky]
 ---
 
 The new monteary system will change everything that we know of and how we understand the economy through the use of RWA (Real world assset) tokenization.
-Where assets will be represented using tokens. For example tokenization of depoists, stocks, derivates and etc. Where assets are stored on a centralise database.
+Where assets will be represented using tokens. For example tokenization of depoists, stocks, derivates and etc. Where assets are stored on a centralised database.
 Unlike cryptocurrency where it is decentralsied. The current development of tokenization by big banks and higher entities are focusing on a hybrid of crypto-tech, defi with a unique blend of centralisation, control and monitization. 
 
 As a result there will be a new paradigm and new way of life bounded by a whole new set of rules. Much like how when we had the pandemic which has dramatically
