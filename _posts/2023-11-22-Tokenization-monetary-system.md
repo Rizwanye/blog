@@ -53,6 +53,8 @@ Conditional payments can be utilized in **tokenized reward programs**. Tokens ma
 Organizations can use smart contracts to create **incentive structures** for employees or partners. Conditional payments can be released when performance goals are met, fostering motivation and accountability.
 
 Furthermore, with the implementation of a **global Digital ID** from the G20 summit in 2023, individuals' identities will be tokenized, which may have a record of your education to your name, job performance, etc.
+Through the use of tokenization and a global digital ID, it is likely a carbon credit system will be implemented for each individual. In doing so this will provide an accurate tracker of each individual's consumption, spending habits
+and etc. Which of course would be greatly benefical for the SDG sustainabiltiy goals. However, the question remains on the more questionable side of this technology. 
 
 The possibilities are endless with this new technology; it is therefore only up to the human imagination to see the possibilities of the integration of the RWA and **tokenization**.
 
