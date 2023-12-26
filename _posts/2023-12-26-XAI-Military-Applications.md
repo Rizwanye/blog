@@ -12,5 +12,7 @@ Another significant benefit of AI/Ml is in its use in streamlining training and 
 in cases where time is of the essence such as recuiting, and many more others that I will not dwelve indepthly. 
 
 With such weight being put into these system. The question being is... how do we know if these machines are making the right or ethical decisions given this context?
+Furthermore, how do we protect ourselves from perpretratos attempting to hijack such a system?
+
 One field that has been popuarily rising is XAI, also known as explainable artifical intelligence. 
 
